@@ -8,8 +8,17 @@ I don't dabble too much with programming outside of school, so all I know is pre
 - Java
 - C++ (Niema was very Poggers)
 
-Speaking of Niema, when it comes to programming I think it's important to 
+Speaking of Niema, when it comes to programming I also think it's important to 
 > Start early, start often
 
 Ok my bad.  That was kinda cringe.
 
+```
+while(commitingCringe) {
+    bonk();
+}
+```
+<br>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1618439156949856647/EBFE6D18C67B0599FFA3F25DA20F020E6C9854C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="sad cat" width="200" height="200"/>
+
+Yikes that's even more cringe.  I'm gonna stop now.
