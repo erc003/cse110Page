@@ -19,6 +19,6 @@ while(commitingCringe) {
 }
 ```
 <br>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1618439156949856647/EBFE6D18C67B0599FFA3F25DA20F020E6C9854C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="sad cat" width="200" height="200"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1618439156949856647/EBFE6D18C67B0599FFA3F25DA20F020E6C9854C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="sad cat"/>
 
 Yikes that's even more cringe.  I'm gonna stop now.
