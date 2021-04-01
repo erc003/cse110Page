@@ -24,7 +24,7 @@ Yikes that's even more cringe.  I'm gonna stop now.
 
 ## More about me
 Nothing too interesting about me.  If you're bored, you can go back to the [README](./README.md).  I chill with friends on Discord, play video games and watch anime, and used to hit the gym with friends.  Here's my [LinkedIn](https://www.linkedin.com/in/er-chen/) if you want it.
-If yor're curious, here are some animes that I watched recently:
+If you're curious, here are some animes that I watched recently:
 - [ ] Adachi and Shimamura
 - [x] Attack on Titan: The Final Season
 - [x] Wandering Witch: The Journey of Elaina
