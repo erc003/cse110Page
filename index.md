@@ -18,7 +18,9 @@ while(commitingCringe) {
     bonk();
 }
 ```
-<br>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1618439156949856647/EBFE6D18C67B0599FFA3F25DA20F020E6C9854C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="sad cat"/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1618439156949856647/EBFE6D18C67B0599FFA3F25DA20F020E6C9854C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="bonk"/>
 
 Yikes that's even more cringe.  I'm gonna stop now.
+
+### More about me
+Nothing too interesting about me.  I chill with friends on Discord, play video games and watch anime, and used to hit the gym with friends.  Here's my [LinkedIn](https://www.linkedin.com/in/er-chen/) if you want it.
