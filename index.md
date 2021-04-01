@@ -23,4 +23,4 @@ while(commitingCringe) {
 Yikes that's even more cringe.  I'm gonna stop now.
 
 ## More about me
-Nothing too interesting about me.  If you're bored, you can go back to the [README](../README.md)I chill with friends on Discord, play video games and watch anime, and used to hit the gym with friends.  Here's my [LinkedIn](https://www.linkedin.com/in/er-chen/) if you want it.
+Nothing too interesting about me.  If you're bored, you can go back to the [README](./README.md).  I chill with friends on Discord, play video games and watch anime, and used to hit the gym with friends.  Here's my [LinkedIn](https://www.linkedin.com/in/er-chen/) if you want it.
