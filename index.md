@@ -20,11 +20,14 @@ while(commitingCringe) {
 ```
 <img src="https://steamuserimages-a.akamaihd.net/ugc/1618439156949856647/EBFE6D18C67B0599FFA3F25DA20F020E6C9854C8/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="bonk"/>
 
-Yikes that's even more cringe.  I'm gonna stop now.
+Yikes that's even more cringe.  I'm gonna stop now.  Actually one more thing...
+Things I hate:
+1. When an assignment gets more requirements added after I had already completed it.
+2. When said change is unannounced.
 
 ## More about me
 Nothing too interesting about me.  If you're bored, you can go back to the [README](./README.md).  I chill with friends on Discord, play video games and watch anime, and used to hit the gym with friends.  Here's my [LinkedIn](https://www.linkedin.com/in/er-chen/) if you want it.
-If you're curious, here are some animes that I watched recently:
+If you're curious, here are some animes that I'm currently watching/watched recently:
 - [ ] Adachi and Shimamura
 - [x] Attack on Titan: The Final Season
 - [x] Wandering Witch: The Journey of Elaina
